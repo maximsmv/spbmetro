@@ -1,2 +1,2 @@
 # spbmetro
-Parsing a metro station, finding the shortest route, output in JSON
+Reading metro stations and lines from a JSON file and finding the shortest route
